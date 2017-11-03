@@ -3,7 +3,8 @@
     "description": "[Larakit] [staticfiles] sf-file-injector",
     "license": "MIT",
     "require":{
-        "larakit/lk-angular":"*"
+        "larakit/lk-angular":"*",
+        "larakit/lk-font-awesome":"*"
     },
     "autoload": {
         "files": [
