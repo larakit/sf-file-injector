@@ -1,0 +1,13 @@
+{
+    "name": "larakit/sf-file-injector",
+    "description": "[Larakit] [staticfiles] sf-file-injector",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-angular":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
